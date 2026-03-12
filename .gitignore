@@ -2,11 +2,12 @@ SDL2-2.0.10/*
 !SDL2-2.0.10/include/
 !SDL2-2.0.10/lib/
 
+
 .vs/
 Debug/
 Release/
-x64/
-x86/
+/x64/
+/x86/
 *.vcxproj.user
 *.exe
 *.obj
