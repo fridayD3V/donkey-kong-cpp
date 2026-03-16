@@ -4,6 +4,8 @@ A Donkey Kong-inspired arcade platformer built in C++ with SDL2.
 
 Climb a multi-floor building, dodge rolling barrels, and reach the top.
 
+<img src="screenshots/screenshot.png" alt="gameplay-screenshot" width="50%">
+
 ---
 
 ## Controls
